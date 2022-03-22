@@ -1,0 +1,11 @@
+<?php
+    //Declarando as variaveis 
+    $num1 = 1;
+    $num2 = 2;
+    //incremento
+    $resultado1 = ++num1;
+    //Decremento
+    $resultado2 = --$num2
+    //Mostrando os valores
+    echo "O vlor do incremento é: ".$resultado1."<br>";
+    echo "O Valor do decremento é: ".$resulatdo2."<br>";

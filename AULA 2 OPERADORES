@@ -1,0 +1,14 @@
+<?php
+    //Declaracao das variavel
+    $num1 = 2;
+    $num2 =4:
+    //Operacoes aritmeticas
+    $soma = $num1 + $num2;
+    $subtracao = $num1 - $num2;
+    $divisao = $num1 / $num2;
+    $multiplicacao = $num1 * $num2;
+    //Mostrando os valores na tela
+    echo "Valor da soma: " .$soma."<br>:
+    echo "Valor da subtracao: ".$subtarcao. "<br>";
+    echo "Valor da divisao: ".divisao."<br>";
+    echo "Valores da multiplicacao: ".$multiplicacao."<br>"
